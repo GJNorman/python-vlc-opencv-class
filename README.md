@@ -25,3 +25,10 @@ example usage
         if success:
             cv.imshow('hello!',frame)
     cap.release()
+
+
+magic words
+
+    apt-get install vlc
+    pip install python-vlc
+    pip install opencv-python
